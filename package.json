@@ -12,6 +12,7 @@
   ],
   "author": "Lily Scott <me@suchipi.com>",
   "license": "MIT",
+  "repository": "https://github.com/suchipi/kame-swc-loader",
   "dependencies": {
     "@swc/core": "^1.2.137"
   }
